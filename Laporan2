@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Laporan 2</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      margin: 40px;
+    }
+    h1 {
+      font-size: 36px;
+      font-weight: bold;
+    }
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+    }
+    {
+      color: blue;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ini adalah Laporan ke 2 dari MataKuliah Pemrograman Web</h1>
+  <h2>Rakha Nugroho</h2>
+  <h2>202332122</h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Apa yang harus dilakukan ipsa ipsam? Tentu saja, saya tidak bisa melakukan hal yang paling penting dan perlu melakukan mode bebas tanpa debit.
+  </p><br>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Kecurigaan ini mollitia diasumsikan cum quisquam perferendis minima, unde fugit aspernatur itaque, doloribuskecualiuri officia voluptatum adipisci alias kesalahan takdir ipsa expedita.
+  </p>
+  <p><a href="#">YT</a></p>
+</body>
+</html>
